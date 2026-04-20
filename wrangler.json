@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gymmanager",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cc8dcb66-ce3b-462e-897d-84cc978fb53e",
+			"database_name": "gym_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
